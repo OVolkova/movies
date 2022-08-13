@@ -1,0 +1,11 @@
+huggingface-hub==0.8.1
+ipykernel==6.15.1
+matplotlib==3.5.3
+nbformat==5.4.0
+numpy==1.23.1
+openai==0.22.1
+pandas==1.4.3
+plotly==5.10.0
+scikit-learn==1.1.2
+tensorboard==2.10.0
+tqdm==4.64.0
